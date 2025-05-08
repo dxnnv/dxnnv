@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/9523f78c-b349-4305-bc50-a37ae05e188b.svg?flat-square)](https://wakatime.com/@9523f78c-b349-4305-bc50-a37ae05e188b)
+
 <!--
 **dxnnv/dxnnv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
