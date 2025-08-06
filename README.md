@@ -28,10 +28,8 @@ When I'm not writing code, I'm normally playing video games: Counter Strike and 
 
 🕒 Timezone: Eastern Time (ET)
 🌎 Based in Florida, USA
-<iframe src="https://free.timeanddate.com/clock/ia0gzjuy/n179/fn12/fs16/tct/pct/ts1/ta1" frameborder="0" width="175" height="21" allowtransparency="true"></iframe>
 
 </details>
-<br>
 
 **📧Where to find me** 
 
@@ -88,11 +86,7 @@ _**(aka stuff I use)**_
 <details>
 <summary><strong>🖱️Click to expand</strong></summary>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=dxnnv&theme=gitdimmed&rank=-C,-?&no-frame=true&no-bg=true&margin-w=30">
-  <img src="https://github-profile-trophy.vercel.app/?username=dxnnv&theme=git&rank=-C,-?&no-frame=true&no-bg=true&margin-w=30">
-</picture>
-
+![](https://github-profile-trophy.vercel.app/?username=dxnnv&theme=gitdimmed&rank=-C,-?&no-frame=true&no-bg=true&margin-w=30)
 ![](https://raw.githubusercontent.com/dxnnv/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/dxnnv/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/dxnnv/github-stats/master/generated/languages.svg#gh-light-mode-only)
