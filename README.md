@@ -26,7 +26,7 @@ When I'm not writing code, I'm normally playing video games: Counter Strike and 
 **💼 Currently:**
 🔥 CTO @ FlameFrags Network LLC
 
-🕒 Timezone: Eastern Time (ET)
+🕒 Timezone: Eastern Time (ET)<br/>
 🌎 Based in Florida, USA
 
 </details>
