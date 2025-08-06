@@ -1,13 +1,8 @@
-<div style="text-align: center;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi+there%2C+I'm+Danny">
-
+![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I'm+Danny)
 <!-- Hey there 👋 -->
 Software engineer with over 5 years of experience. Passionate about developing Kotlin & Java backend systems for gaming servers.
 
-<a href="https://wakatime.com/@9523f78c-b349-4305-bc50-a37ae05e188b">
-    <img src="https://wakatime.com/badge/user/9523f78c-b349-4305-bc50-a37ae05e188b.svg?style=for-the-badge" center>
-</a>
-</div>
+[![Wakatime](https://wakatime.com/badge/user/9523f78c-b349-4305-bc50-a37ae05e188b.svg?style=for-the-badge)](https://wakatime.com/@9523f78c-b349-4305-bc50-a37ae05e188b)
 
 ---
 <!-- Start of the emojis...gotta keep them focused somehow -->
