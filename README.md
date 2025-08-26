@@ -81,7 +81,7 @@ _**(aka stuff I use)**_
 <details>
 <summary><strong>🖱️Click to expand</strong></summary>
 
-![](https://github-profile-trophy.vercel.app/?username=dxnnv&theme=gitdimmed&rank=-C,-?&no-frame=true&no-bg=true&margin-w=30)
+![](https://trophygh.kolioaris.xyz/?username=dxnnv&theme=gitdimmed&rank=-C,-?&no-frame=true&no-bg=true&margin-w=30)
 ![](https://raw.githubusercontent.com/dxnnv/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/dxnnv/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/dxnnv/github-stats/master/generated/languages.svg#gh-light-mode-only)
