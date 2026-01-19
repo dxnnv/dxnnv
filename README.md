@@ -1,6 +1,6 @@
 ![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I'm+Danny)
 <!-- Hey there 👋 -->
-Software engineer with over 5 years of experience. Passionate about developing Kotlin & Java backend systems for gaming servers.
+Software engineer with over 6 years of experience. Passionate about developing Kotlin & Java backend systems for gaming servers.
 
 [![Wakatime](https://wakatime.com/badge/user/9523f78c-b349-4305-bc50-a37ae05e188b.svg?style=for-the-badge)](https://wakatime.com/@9523f78c-b349-4305-bc50-a37ae05e188b)
 
@@ -14,7 +14,7 @@ Hey, I'm Danny.<br/>
 I first picked up programming over eight years ago, and have been working professionally since 2020. I specialize in architecting core systems and deploying scalable game servers, though I also enjoy tackling a wide range of development challenges and projects. Kotlin is my go-to language (followed by Java), and I’m always eager to experiment with new tools and frameworks; you can check out the section below for details on my stack.
 <br/>
 <br/>
-When I'm not writing code, I'm normally playing video games: Counter Strike and PUBG on PC, and on mobile Balatro, BTD6, or Chess. If I'm not at my desk, I love grabbing coffee, playing instruments (piano, guitar, bass, drums, and ukulele), listening to music of all genres, or just chilling with my golden doodle, Moose.
+When I'm not writing code, I'm normally playing video games: Counter Strike, Hitman, and PUBG on PC, and on mobile BTD6 or Chess. If I'm not at my desk, I love grabbing coffee, playing instruments (piano, guitar, bass, drums, and ukulele), listening to music of all genres, or just chilling with my golden doodle, Moose.
 <br/>
 <br/>
 
